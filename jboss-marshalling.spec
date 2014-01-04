@@ -16,9 +16,7 @@ BuildRequires:    maven-local
 BuildRequires:    jboss-parent
 BuildRequires:    jboss-modules
 BuildRequires:    maven-injection-plugin
-%if 0%{?fedora}
 BuildRequires:    apiviz
-%endif
 
 %description
 JBoss Marshalling is an alternative serialization API that fixes many
