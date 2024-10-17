@@ -7,7 +7,7 @@ Version:          1.4.1
 Release:          1.0%{?dist}
 Summary:          JBoss Marshalling
 License:          LGPLv2+
-URL:              http://www.jboss.org/jbossmarshalling
+URL:              https://www.jboss.org/jbossmarshalling
 BuildArch:        noarch
 
 Source0:          https://github.com/jboss-remoting/jboss-marshalling/archive/%{namedversion}.tar.gz
